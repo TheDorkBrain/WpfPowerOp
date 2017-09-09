@@ -13,7 +13,7 @@ Imports System.Windows
 
 <Assembly: AssemblyTitle("WpfPowerOp")>
 <Assembly: AssemblyDescription("Power Operations Popup")>
-<Assembly: AssemblyCompany("DorkBrain")>
+<Assembly: AssemblyCompany("DorkBrain.com")>
 <Assembly: AssemblyProduct("WpfPowerOp")>
 <Assembly: AssemblyCopyright("Copyright ©  2017")>
 <Assembly: AssemblyTrademark("")>
